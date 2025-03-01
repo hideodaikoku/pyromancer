@@ -1,5 +1,5 @@
 # pyromancer
 
-forked from https://sanchitsawaria.github.io/
+Try it live here: https://hideodaikoku.github.io/pyromancer/
 
-https://hideodaikoku.github.io/pyromancer/
+forked from https://sanchitsawaria.github.io/
